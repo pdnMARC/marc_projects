@@ -1,6 +1,7 @@
 ---
 project: "Lung Sound Analysis"
-projectMembers: []
+projectMembers:
+  - chamodyas@eng.pdn.ac.lk
 supervisors: []
 researchArea: Biomedical Engineering and Wearables
 researchPillars: []
