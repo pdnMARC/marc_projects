@@ -1,6 +1,7 @@
 ---
 project: "Large Language Models (LLMs)"
-projectMembers: []
+projectMembers:
+  - e19249@eng.pdn.ac.lk
 supervisors: []
 researchArea: Generative AI
 researchPillars: []
