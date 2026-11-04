@@ -1,6 +1,7 @@
 ---
 project: "AI-Powered Non-Intrusive Load Monitoring (NILM)"
-projectMembers: []
+projectMembers:
+  - e19408@eng.pdn.ac.lk
 supervisors: []
 researchArea: Smart Grid
 researchPillars: []
