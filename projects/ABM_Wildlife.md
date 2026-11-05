@@ -1,6 +1,7 @@
 ---
 project: "Animal-Perceived Seasons from Elephant Movement"
-projectMembers: []
+projectMembers:
+  - chamodyas@eng.pdn.ac.lk
 supervisors: []
 researchArea: Socioeconomic
 researchPillars: []
