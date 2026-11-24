@@ -5,6 +5,7 @@ projectMembers:
  - tharuwicky7273@gmail.com
  - e19445@eng.pdn.ac.lk
  - "athulya@eng.pdn.ac.lk"
+ - e21345@eng.pdn.ac.lk
 supervisors: 
  - "roshang@eng.pdn.ac.lk"
 researchArea: Computer Vision

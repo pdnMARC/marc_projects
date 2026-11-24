@@ -1,6 +1,7 @@
 ---
 project: "All-Sky Imaging & Multimodal Solar Irradiance Forecasting"
-projectMembers: []
+projectMembers:
+  - e21345@eng.pdn.ac.lk
 supervisors: []
 researchArea: Computer Vision
 researchPillars: []
