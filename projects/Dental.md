@@ -1,6 +1,7 @@
 ---
 project: "Virtual Surgical Planning Tool for Mandibular and Maxillary Reconstruction"
-projectMembers: []
+projectMembers:
+  - aviwije2001@gmail.com
 supervisors: []
 researchArea: Biomedical Engineering and Wearables
 researchPillars: []
