@@ -1,6 +1,7 @@
 ---
 project: "Foveated Vision"
-projectMembers: []
+projectMembers:
+  - e19254@eng.pdn.ac.lk
 supervisors: []
 researchArea: Computer Vision
 researchPillars: []
